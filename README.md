@@ -74,3 +74,12 @@ I hope this diatribe just sparked an aha-moment, but if not, hopefully finishing
 2. Commit and push that branch to your GitHub Account's Fork of Java-Lab-005
 3. Create a Pull request back to my Java-Lab-005 Repo.
 4. Paste your Pull request URL into Canvas to complete the assignment.
+
+**/**
+*
+* @author Trevor Hartman
+* @author Geng Cha
+*
+* @since Version 1.0
+*
+*/**
